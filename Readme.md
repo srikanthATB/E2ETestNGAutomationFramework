@@ -7,7 +7,7 @@ The framework leverages various libraries and tools to facilitate data-driven te
 
 
 ## 🚀 About Me
-Hi, My Name is Jatin Sharma and I have 10 years of experience in Automation Testing using technologies like Selenium Webdriver,
+Hi, My Name is Bandari Srikanth and I have 2+ years of experience in Automation Testing using technologies like Selenium Webdriver,
 RestAssured, Appium. 
 
 My major expertise is in Java Programming Language.
@@ -15,16 +15,16 @@ My major expertise is in Java Programming Language.
 
 ## Author
 
-- [@jatin99](https://github.com/jatin99)
-- EmailAddress: jatinvsharma@gmail.com
+- [@srikanthATB]([https://github.com/srikanthATB])
+- EmailAddress: 1996srikanthb@gmail.com
 
 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jatin99)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/srikanthATB)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinshharma/)
+
 
 
 
@@ -70,9 +70,9 @@ Before running this framework, ensure the following software is installed on you
 **Clone the Repository:**
 
 ```bash
-  git clone https://github.com/jatin99/Test-Automation-Framework.git
+  git clone https://github.com/srikanthATB/E2ETestNGAutomationFramework.git
 
-  cd Test-Automation-Framework
+  cd E2ETestNGAutomationFramework
 ```
     
 
@@ -105,4 +105,4 @@ The tests will be executed at 11:30PM IST every single day.
 
 The reports will be archieved in gh-pages branch
 You can view the html reports at : 
-https://jatin99.github.io/Test-Automation-Framework/report.html
+https://github.com/srikanthATB/E2ETestNGAutomationFramework/report.html
